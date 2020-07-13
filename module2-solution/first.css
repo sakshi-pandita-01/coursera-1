@@ -24,10 +24,10 @@ background-color:gray;
 
     }
     #p1,#p2{
-      width:49.5%;
+      width:49.2%;
     }
 }
-@media (max-width:768px){
+@media (max-width:767px){
   #p1,#p2,#p3{
     width:100%;
   }
